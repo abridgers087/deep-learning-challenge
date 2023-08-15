@@ -21,9 +21,9 @@ This file serves as a complete record of our data analysis workflow, capturing t
 Please consult the summary report, titled 'Beautiful Soup Neural Network Model Analysis,' for a concise overview of our data analysis, structural adjustments, and cleaning processes.
 
 Python Imports Needed:
-[keras_tuner](https://keras.io/keras_tuner/)
-[scikit-learn](https://scikit-learn.org/stable/)  
-[pandas](https://pandas.pydata.org/)  
-[tensorflow](https://www.tensorflow.org/)
-[numpy](https://numpy.org/)  
+[keras_tuner](https://keras.io/keras_tuner/)</br>
+[scikit-learn](https://scikit-learn.org/stable/) </br> 
+[pandas](https://pandas.pydata.org/)  </br>
+[tensorflow](https://www.tensorflow.org/)</br>
+[numpy](https://numpy.org/)  </br>
 
